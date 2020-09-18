@@ -5,4 +5,4 @@ This version of hangman changes the "hidden word" after the player's every guess
 Written in C with self created string and vector functions.
 
 # Commands to run in terminal:
-  1. run: make; ./string_driver
+  1. run: `make; ./string_driver;`
